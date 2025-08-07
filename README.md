@@ -11,6 +11,6 @@
 
 ```
 🧑‍💻 Software engineering student  
-🧠 ML explorer · 🌸 Web dev roots (front & back end, SQL databases)
+🧠 ML explorer · 🌸 Web dev roots (front & back end)
 🖌️ Digital art · 🫧 3D modeling · 🕹️ Games · 🍥 Language learning enthusiast
 ```
